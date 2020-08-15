@@ -1,21 +1,17 @@
-## A collection of GitHub issue and pull request templates
+# GitHub Issues と Pull Requests のテンプレート集
 
-*Update*: GitHub now also supports [multiple issue templates](https://help.github.com/articles/about-issue-and-pull-request-templates/).
+## テンプレートとは？ どうやって作るの？
 
-~~GitHub finally supports [issue template](https://github.com/blog/2111-issue-and-pull-request-templates).~~
+[GitHubのドキュメント: About issue and pull request templates](https://docs.github.com/en/github/building-a-strong-community/about-issue-and-pull-request-templates)
 
-# What is an issue template?
+- [用意されたテンプレートを使う方法](https://docs.github.com/en/github/building-a-strong-community/configuring-issue-templates-for-your-repository)
+- [テンプレートを作成する方法](https://docs.github.com/en/github/building-a-strong-community/creating-a-pull-request-template-for-your-repository)
 
-[Issue and Pull Request templates](https://blog.github.com/2016-02-17-issue-and-pull-request-templates/)
+## このリポジトリの使い方
 
-# How to create issue templates?
+> Find your issue/PR templates, and just grab and go.
 
-- [About issue and pull request templates](https://help.github.com/en/github/building-a-strong-community/about-issue-and-pull-request-templates)
-- ~~[Manually creating a single issue template for your repository](https://help.github.com/articles/manually-creating-a-single-issue-template-for-your-repository/)~~
-
-# 10+ templates for you to pick!
-
-Find your issue/PR templates, and just grab and go.
+## 謝辞
 
 *Inspired by excellent GitHub projects that use issue and pull request templates.*
 
@@ -23,7 +19,7 @@ Templates here are either copied from or modified based on real projects on GitH
 
 *See also [awesome-github-templates](https://github.com/devspace/awesome-github-templates) for more examples in real projects :tada:*
 
-## License
+## License (original-repo)
 
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
