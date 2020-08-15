@@ -1,17 +1,17 @@
-## A collection of GitHub issue and pull request templates
+# GitHub Issues と Pull Requests の templates
 
-## What are these "templates" ? How can I use these ?
+## Issue/PR templateって何？ どうやって作るの？
 
-[GitHub Docs: About issue and pull request templates](https://docs.github.com/en/github/building-a-strong-community/about-issue-and-pull-request-templates)
+[GitHubのドキュメント: About issue and pull request templates](https://docs.github.com/en/github/building-a-strong-community/about-issue-and-pull-request-templates)
 
-- [Configureing issue templates](https://docs.github.com/en/github/building-a-strong-community/configuring-issue-templates-for-your-repository)
-- [Creating pull request templates](https://docs.github.com/en/github/building-a-strong-community/creating-a-pull-request-template-for-your-repository)
+- [Issue templatesを設定する方法](https://docs.github.com/en/github/building-a-strong-community/configuring-issue-templates-for-your-repository)
+- [Pull request templatesを作成する方法](https://docs.github.com/en/github/building-a-strong-community/creating-a-pull-request-template-for-your-repository)
 
-## How to use this repo
+## このリポジトリの使い方
 
 > Find your issue/PR templates, and just grab and go.
 
-## Acknowledgements
+## 謝辞
 
 *Inspired by excellent GitHub projects that use issue and pull request templates.*
 
