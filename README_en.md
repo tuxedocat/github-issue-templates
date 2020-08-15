@@ -1,4 +1,4 @@
-## A collection of GitHub issue and pull request templates
+# A collection of GitHub issue and pull request templates
 
 ## What are these "templates" ? How can I use these ?
 
