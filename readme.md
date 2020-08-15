@@ -1,11 +1,11 @@
-# GitHub Issues と Pull Requests のテンプレート集
+# GitHub Issues と Pull Requests の templates
 
-## テンプレートとは？ どうやって作るの？
+## Issue/PR templateって何？ どうやって作るの？
 
 [GitHubのドキュメント: About issue and pull request templates](https://docs.github.com/en/github/building-a-strong-community/about-issue-and-pull-request-templates)
 
-- [用意されたテンプレートを使う方法](https://docs.github.com/en/github/building-a-strong-community/configuring-issue-templates-for-your-repository)
-- [テンプレートを作成する方法](https://docs.github.com/en/github/building-a-strong-community/creating-a-pull-request-template-for-your-repository)
+- [Issue templatesを設定する方法](https://docs.github.com/en/github/building-a-strong-community/configuring-issue-templates-for-your-repository)
+- [Pull request templatesを作成する方法](https://docs.github.com/en/github/building-a-strong-community/creating-a-pull-request-template-for-your-repository)
 
 ## このリポジトリの使い方
 
